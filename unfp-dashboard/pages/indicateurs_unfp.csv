@@ -1,0 +1,416 @@
+id,indicator_name,value,annee,prefecture_name,prefecture_id
+107,Nombre d'Espaces Sûrs ciblés,0,2025,DALABA,71
+109,Nombre d'Espaces Sûrs ciblés,1,2025,PITA,73
+108,Nombre d'Espaces Sûrs ciblés,1,2025,MAMOU,72
+281,Nombre d'Espaces Sûrs ciblés,0,2025,KANKAN,41
+282,Nombre d'Espaces Sûrs ciblés,0,2025,KEROUANE,42
+283,Nombre d'Espaces Sûrs ciblés,0,2025,KOUROUSSA,43
+284,Nombre d'Espaces Sûrs ciblés,0,2025,MANDIANA,44
+285,Nombre d'Espaces Sûrs ciblés,0,2025,SIGUIRI,45
+186,Nombre d'Espaces Sûrs ciblés,0,2025,KOUBIA,61
+380,Nombre d'Espaces Sûrs ciblés,0,2025,YOMOU,86
+379,Nombre d'Espaces Sûrs ciblés,0,2025,LOLA,83
+378,Nombre d'Espaces Sûrs ciblés,0,2025,MACENTA,84
+377,Nombre d'Espaces Sûrs ciblés,0,2025,GUECKEDOU,82
+187,Nombre d'Espaces Sûrs ciblés,2,2025,LABE,62
+188,Nombre d'Espaces Sûrs ciblés,1,2025,LELOUMA,63
+189,Nombre d'Espaces Sûrs ciblés,1,2025,MALI,64
+190,Nombre d'Espaces Sûrs ciblés,0,2025,TOUGUE,65
+376,Nombre d'Espaces Sûrs ciblés,1,2025,BEYLA,81
+45,Nombre d'Espaces Sûrs ciblés,1,2025,KINDIA,54
+42,Nombre d'Espaces Sûrs ciblés,0,2025,COYAH,51
+43,Nombre d'Espaces Sûrs ciblés,1,2025,DUBREKA,52
+44,Nombre d'Espaces Sûrs ciblés,0,2025,FORECARIAH,53
+413,Nombre d’association de jeunes filles bénéficiaires,2,2025,MACENTA,84
+129,Nombre d’association de jeunes filles bénéficiaires,1,2025,MAMOU,72
+130,Nombre d’association de jeunes filles bénéficiaires,2,2025,PITA,73
+318,Nombre d’association de jeunes filles bénéficiaires,0,2025,KOUROUSSA,43
+317,Nombre d’association de jeunes filles bénéficiaires,0,2025,KEROUANE,42
+73,Nombre d’association de jeunes filles bénéficiaires,2,2025,KINDIA,54
+72,Nombre d’association de jeunes filles bénéficiaires,1,2025,FORECARIAH,53
+71,Nombre d’association de jeunes filles bénéficiaires,0,2025,DUBREKA,52
+70,Nombre d’association de jeunes filles bénéficiaires,0,2025,COYAH,51
+316,Nombre d’association de jeunes filles bénéficiaires,0,2025,KANKAN,41
+221,Nombre d’association de jeunes filles bénéficiaires,1,2025,KOUBIA,61
+222,Nombre d’association de jeunes filles bénéficiaires,1,2025,LABE,62
+223,Nombre d’association de jeunes filles bénéficiaires,1,2025,LELOUMA,63
+224,Nombre d’association de jeunes filles bénéficiaires,0,2025,MALI,64
+411,Nombre d’association de jeunes filles bénéficiaires,3,2025,BEYLA,81
+412,Nombre d’association de jeunes filles bénéficiaires,1,2025,GUECKEDOU,82
+225,Nombre d’association de jeunes filles bénéficiaires,1,2025,TOUGUE,65
+320,Nombre d’association de jeunes filles bénéficiaires,0,2025,SIGUIRI,45
+319,Nombre d’association de jeunes filles bénéficiaires,0,2025,MANDIANA,44
+128,Nombre d’association de jeunes filles bénéficiaires,2,2025,DALABA,71
+415,Nombre d’association de jeunes filles bénéficiaires,2,2025,YOMOU,86
+414,Nombre d’association de jeunes filles bénéficiaires,1,2025,LOLA,83
+69,Nombre d’associations de jeunes bénéficiaires,2,2025,KINDIA,54
+127,Nombre d’associations de jeunes bénéficiaires,23,2025,PITA,73
+126,Nombre d’associations de jeunes bénéficiaires,27,2025,MAMOU,72
+125,Nombre d’associations de jeunes bénéficiaires,20,2025,DALABA,71
+410,Nombre d’associations de jeunes bénéficiaires,3,2025,YOMOU,86
+409,Nombre d’associations de jeunes bénéficiaires,2,2025,LOLA,83
+408,Nombre d’associations de jeunes bénéficiaires,3,2025,MACENTA,84
+407,Nombre d’associations de jeunes bénéficiaires,2,2025,GUECKEDOU,82
+406,Nombre d’associations de jeunes bénéficiaires,4,2025,BEYLA,81
+315,Nombre d’associations de jeunes bénéficiaires,0,2025,SIGUIRI,45
+314,Nombre d’associations de jeunes bénéficiaires,0,2025,MANDIANA,44
+313,Nombre d’associations de jeunes bénéficiaires,0,2025,KOUROUSSA,43
+312,Nombre d’associations de jeunes bénéficiaires,0,2025,KEROUANE,42
+311,Nombre d’associations de jeunes bénéficiaires,0,2025,KANKAN,41
+66,Nombre d’associations de jeunes bénéficiaires,0,2025,COYAH,51
+67,Nombre d’associations de jeunes bénéficiaires,0,2025,DUBREKA,52
+68,Nombre d’associations de jeunes bénéficiaires,1,2025,FORECARIAH,53
+220,Nombre d’associations de jeunes bénéficiaires,0,2025,TOUGUE,65
+219,Nombre d’associations de jeunes bénéficiaires,0,2025,MALI,64
+218,Nombre d’associations de jeunes bénéficiaires,0,2025,LELOUMA,63
+217,Nombre d’associations de jeunes bénéficiaires,0,2025,LABE,62
+216,Nombre d’associations de jeunes bénéficiaires,0,2025,KOUBIA,61
+198,Nombre d’écoles primaires et secondaires ciblées (ECS),0,2025,LELOUMA,63
+197,Nombre d’écoles primaires et secondaires ciblées (ECS),0,2025,LABE,62
+196,Nombre d’écoles primaires et secondaires ciblées (ECS),0,2025,KOUBIA,61
+50,Nombre d’écoles primaires et secondaires ciblées (ECS),34,2025,COYAH,51
+113,Nombre d’écoles primaires et secondaires ciblées (ECS),0,2025,DALABA,71
+53,Nombre d’écoles primaires et secondaires ciblées (ECS),56,2025,KINDIA,54
+52,Nombre d’écoles primaires et secondaires ciblées (ECS),0,2025,FORECARIAH,53
+51,Nombre d’écoles primaires et secondaires ciblées (ECS),35,2025,DUBREKA,52
+389,Nombre d’écoles primaires et secondaires ciblées (ECS),15,2025,LOLA,83
+390,Nombre d’écoles primaires et secondaires ciblées (ECS),0,2025,YOMOU,86
+386,Nombre d’écoles primaires et secondaires ciblées (ECS),19,2025,BEYLA,81
+115,Nombre d’écoles primaires et secondaires ciblées (ECS),0,2025,PITA,73
+387,Nombre d’écoles primaires et secondaires ciblées (ECS),14,2025,GUECKEDOU,82
+388,Nombre d’écoles primaires et secondaires ciblées (ECS),10,2025,MACENTA,84
+291,Nombre d’écoles primaires et secondaires ciblées (ECS),10,2025,KANKAN,41
+292,Nombre d’écoles primaires et secondaires ciblées (ECS),10,2025,KEROUANE,42
+293,Nombre d’écoles primaires et secondaires ciblées (ECS),10,2025,KOUROUSSA,43
+294,Nombre d’écoles primaires et secondaires ciblées (ECS),10,2025,MANDIANA,44
+295,Nombre d’écoles primaires et secondaires ciblées (ECS),10,2025,SIGUIRI,45
+114,Nombre d’écoles primaires et secondaires ciblées (ECS),0,2025,MAMOU,72
+200,Nombre d’écoles primaires et secondaires ciblées (ECS),0,2025,TOUGUE,65
+199,Nombre d’écoles primaires et secondaires ciblées (ECS),0,2025,MALI,64
+164,Nombre d’hôpitaux ciblés,1,2025,MALI,64
+162,Nombre d’hôpitaux ciblés,1,2025,LABE,62
+258,Nombre d’hôpitaux ciblés,1,2025,KOUROUSSA,43
+257,Nombre d’hôpitaux ciblés,1,2025,KEROUANE,42
+256,Nombre d’hôpitaux ciblés,1,2025,KANKAN,41
+351,Nombre d’hôpitaux ciblés,1,2025,BEYLA,81
+352,Nombre d’hôpitaux ciblés,1,2025,GUECKEDOU,82
+353,Nombre d’hôpitaux ciblés,1,2025,MACENTA,84
+354,Nombre d’hôpitaux ciblés,1,2025,LOLA,83
+355,Nombre d’hôpitaux ciblés,1,2025,YOMOU,86
+161,Nombre d’hôpitaux ciblés,1,2025,KOUBIA,61
+92,Nombre d’hôpitaux ciblés,1,2025,DALABA,71
+93,Nombre d’hôpitaux ciblés,1,2025,MAMOU,72
+94,Nombre d’hôpitaux ciblés,1,2025,PITA,73
+25,Nombre d’hôpitaux ciblés,1,2025,KINDIA,54
+24,Nombre d’hôpitaux ciblés,1,2025,FORECARIAH,53
+23,Nombre d’hôpitaux ciblés,1,2025,DUBREKA,52
+22,Nombre d’hôpitaux ciblés,1,2025,COYAH,51
+165,Nombre d’hôpitaux ciblés,1,2025,TOUGUE,65
+260,Nombre d’hôpitaux ciblés,1,2025,SIGUIRI,45
+259,Nombre d’hôpitaux ciblés,1,2025,MANDIANA,44
+163,Nombre d’hôpitaux ciblés,1,2025,LELOUMA,63
+103,Nombre d’offices de gendarmerie ciblés (Programme Genre),1,2025,PITA,73
+34,Nombre d’offices de gendarmerie ciblés (Programme Genre),1,2025,COYAH,51
+35,Nombre d’offices de gendarmerie ciblés (Programme Genre),1,2025,DUBREKA,52
+36,Nombre d’offices de gendarmerie ciblés (Programme Genre),1,2025,FORECARIAH,53
+37,Nombre d’offices de gendarmerie ciblés (Programme Genre),1,2025,KINDIA,54
+101,Nombre d’offices de gendarmerie ciblés (Programme Genre),1,2025,DALABA,71
+102,Nombre d’offices de gendarmerie ciblés (Programme Genre),1,2025,MAMOU,72
+176,Nombre d’offices de gendarmerie ciblés (Programme Genre),1,2025,KOUBIA,61
+177,Nombre d’offices de gendarmerie ciblés (Programme Genre),1,2025,LABE,62
+178,Nombre d’offices de gendarmerie ciblés (Programme Genre),2,2025,LELOUMA,63
+179,Nombre d’offices de gendarmerie ciblés (Programme Genre),2,2025,MALI,64
+180,Nombre d’offices de gendarmerie ciblés (Programme Genre),1,2025,TOUGUE,65
+271,Nombre d’offices de gendarmerie ciblés (Programme Genre),1,2025,KANKAN,41
+272,Nombre d’offices de gendarmerie ciblés (Programme Genre),1,2025,KEROUANE,42
+273,Nombre d’offices de gendarmerie ciblés (Programme Genre),1,2025,KOUROUSSA,43
+274,Nombre d’offices de gendarmerie ciblés (Programme Genre),1,2025,MANDIANA,44
+275,Nombre d’offices de gendarmerie ciblés (Programme Genre),1,2025,SIGUIRI,45
+366,Nombre d’offices de gendarmerie ciblés (Programme Genre),1,2025,BEYLA,81
+367,Nombre d’offices de gendarmerie ciblés (Programme Genre),1,2025,GUECKEDOU,82
+368,Nombre d’offices de gendarmerie ciblés (Programme Genre),1,2025,MACENTA,84
+369,Nombre d’offices de gendarmerie ciblés (Programme Genre),1,2025,LOLA,83
+370,Nombre d’offices de gendarmerie ciblés (Programme Genre),1,2025,YOMOU,86
+364,Nombre d’offices de police ciblés (Programme Genre),1,2025,LOLA,83
+365,Nombre d’offices de police ciblés (Programme Genre),1,2025,YOMOU,86
+100,Nombre d’offices de police ciblés (Programme Genre),1,2025,PITA,73
+98,Nombre d’offices de police ciblés (Programme Genre),1,2025,DALABA,71
+33,Nombre d’offices de police ciblés (Programme Genre),1,2025,KINDIA,54
+32,Nombre d’offices de police ciblés (Programme Genre),1,2025,FORECARIAH,53
+270,Nombre d’offices de police ciblés (Programme Genre),1,2025,SIGUIRI,45
+31,Nombre d’offices de police ciblés (Programme Genre),1,2025,DUBREKA,52
+171,Nombre d’offices de police ciblés (Programme Genre),1,2025,KOUBIA,61
+172,Nombre d’offices de police ciblés (Programme Genre),1,2025,LABE,62
+173,Nombre d’offices de police ciblés (Programme Genre),2,2025,LELOUMA,63
+174,Nombre d’offices de police ciblés (Programme Genre),2,2025,MALI,64
+175,Nombre d’offices de police ciblés (Programme Genre),1,2025,TOUGUE,65
+30,Nombre d’offices de police ciblés (Programme Genre),1,2025,COYAH,51
+361,Nombre d’offices de police ciblés (Programme Genre),1,2025,BEYLA,81
+362,Nombre d’offices de police ciblés (Programme Genre),1,2025,GUECKEDOU,82
+363,Nombre d’offices de police ciblés (Programme Genre),1,2025,MACENTA,84
+99,Nombre d’offices de police ciblés (Programme Genre),1,2025,MAMOU,72
+269,Nombre d’offices de police ciblés (Programme Genre),1,2025,MANDIANA,44
+268,Nombre d’offices de police ciblés (Programme Genre),1,2025,KOUROUSSA,43
+267,Nombre d’offices de police ciblés (Programme Genre),1,2025,KEROUANE,42
+266,Nombre d’offices de police ciblés (Programme Genre),1,2025,KANKAN,41
+184,Nombre de CAEF ciblés (Programme Genre),0,2025,MALI,64
+278,Nombre de CAEF ciblés (Programme Genre),1,2025,KOUROUSSA,43
+371,Nombre de CAEF ciblés (Programme Genre),0,2025,BEYLA,81
+41,Nombre de CAEF ciblés (Programme Genre),1,2025,KINDIA,54
+372,Nombre de CAEF ciblés (Programme Genre),0,2025,GUECKEDOU,82
+373,Nombre de CAEF ciblés (Programme Genre),0,2025,MACENTA,84
+375,Nombre de CAEF ciblés (Programme Genre),0,2025,YOMOU,86
+374,Nombre de CAEF ciblés (Programme Genre),0,2025,LOLA,83
+40,Nombre de CAEF ciblés (Programme Genre),0,2025,FORECARIAH,53
+106,Nombre de CAEF ciblés (Programme Genre),1,2025,PITA,73
+105,Nombre de CAEF ciblés (Programme Genre),1,2025,MAMOU,72
+104,Nombre de CAEF ciblés (Programme Genre),0,2025,DALABA,71
+39,Nombre de CAEF ciblés (Programme Genre),1,2025,DUBREKA,52
+38,Nombre de CAEF ciblés (Programme Genre),0,2025,COYAH,51
+279,Nombre de CAEF ciblés (Programme Genre),1,2025,MANDIANA,44
+280,Nombre de CAEF ciblés (Programme Genre),1,2025,SIGUIRI,45
+276,Nombre de CAEF ciblés (Programme Genre),1,2025,KANKAN,41
+277,Nombre de CAEF ciblés (Programme Genre),1,2025,KEROUANE,42
+181,Nombre de CAEF ciblés (Programme Genre),0,2025,KOUBIA,61
+182,Nombre de CAEF ciblés (Programme Genre),1,2025,LABE,62
+183,Nombre de CAEF ciblés (Programme Genre),0,2025,LELOUMA,63
+185,Nombre de CAEF ciblés (Programme Genre),1,2025,TOUGUE,65
+111,Nombre de CECOJE ciblés,1,2025,MAMOU,72
+48,Nombre de CECOJE ciblés,1,2025,FORECARIAH,53
+49,Nombre de CECOJE ciblés,1,2025,KINDIA,54
+290,Nombre de CECOJE ciblés,1,2025,SIGUIRI,45
+110,Nombre de CECOJE ciblés,0,2025,DALABA,71
+289,Nombre de CECOJE ciblés,1,2025,MANDIANA,44
+288,Nombre de CECOJE ciblés,1,2025,KOUROUSSA,43
+287,Nombre de CECOJE ciblés,1,2025,KEROUANE,42
+286,Nombre de CECOJE ciblés,1,2025,KANKAN,41
+385,Nombre de CECOJE ciblés,1,2025,YOMOU,86
+384,Nombre de CECOJE ciblés,1,2025,LOLA,83
+383,Nombre de CECOJE ciblés,1,2025,MACENTA,84
+382,Nombre de CECOJE ciblés,1,2025,GUECKEDOU,82
+191,Nombre de CECOJE ciblés,1,2025,KOUBIA,61
+192,Nombre de CECOJE ciblés,1,2025,LABE,62
+193,Nombre de CECOJE ciblés,1,2025,LELOUMA,63
+194,Nombre de CECOJE ciblés,1,2025,MALI,64
+195,Nombre de CECOJE ciblés,1,2025,TOUGUE,65
+381,Nombre de CECOJE ciblés,1,2025,BEYLA,81
+112,Nombre de CECOJE ciblés,1,2025,PITA,73
+46,Nombre de CECOJE ciblés,1,2025,COYAH,51
+47,Nombre de CECOJE ciblés,1,2025,DUBREKA,52
+96,Nombre de centres de santé ciblés,3,2025,MAMOU,72
+97,Nombre de centres de santé ciblés,3,2025,PITA,73
+360,Nombre de centres de santé ciblés,7,2025,YOMOU,86
+359,Nombre de centres de santé ciblés,9,2025,LOLA,83
+167,Nombre de centres de santé ciblés,19,2025,LABE,62
+168,Nombre de centres de santé ciblés,11,2025,LELOUMA,63
+169,Nombre de centres de santé ciblés,14,2025,MALI,64
+358,Nombre de centres de santé ciblés,18,2025,MACENTA,84
+357,Nombre de centres de santé ciblés,15,2025,GUECKEDOU,82
+356,Nombre de centres de santé ciblés,15,2025,BEYLA,81
+26,Nombre de centres de santé ciblés,4,2025,COYAH,51
+265,Nombre de centres de santé ciblés,24,2025,SIGUIRI,45
+264,Nombre de centres de santé ciblés,14,2025,MANDIANA,44
+263,Nombre de centres de santé ciblés,16,2025,KOUROUSSA,43
+262,Nombre de centres de santé ciblés,8,2025,KEROUANE,42
+261,Nombre de centres de santé ciblés,22,2025,KANKAN,41
+27,Nombre de centres de santé ciblés,5,2025,DUBREKA,52
+28,Nombre de centres de santé ciblés,4,2025,FORECARIAH,53
+29,Nombre de centres de santé ciblés,7,2025,KINDIA,54
+166,Nombre de centres de santé ciblés,6,2025,KOUBIA,61
+170,Nombre de centres de santé ciblés,10,2025,TOUGUE,65
+95,Nombre de centres de santé ciblés,3,2025,DALABA,71
+89,Nombre de communautés/villages couverts par le programme de lutte contre les VBG,12,2025,DALABA,71
+91,Nombre de communautés/villages couverts par le programme de lutte contre les VBG,11,2025,PITA,73
+350,Nombre de communautés/villages couverts par le programme de lutte contre les VBG,117,2025,YOMOU,86
+349,Nombre de communautés/villages couverts par le programme de lutte contre les VBG,574,2025,LOLA,83
+348,Nombre de communautés/villages couverts par le programme de lutte contre les VBG,0,2025,MACENTA,84
+347,Nombre de communautés/villages couverts par le programme de lutte contre les VBG,0,2025,GUECKEDOU,82
+346,Nombre de communautés/villages couverts par le programme de lutte contre les VBG,878,2025,BEYLA,81
+157,Nombre de communautés/villages couverts par le programme de lutte contre les VBG,35,2025,LABE,62
+251,Nombre de communautés/villages couverts par le programme de lutte contre les VBG,18,2025,KANKAN,41
+252,Nombre de communautés/villages couverts par le programme de lutte contre les VBG,13,2025,KEROUANE,42
+253,Nombre de communautés/villages couverts par le programme de lutte contre les VBG,0,2025,KOUROUSSA,43
+254,Nombre de communautés/villages couverts par le programme de lutte contre les VBG,5,2025,MANDIANA,44
+255,Nombre de communautés/villages couverts par le programme de lutte contre les VBG,33,2025,SIGUIRI,45
+160,Nombre de communautés/villages couverts par le programme de lutte contre les VBG,41,2025,TOUGUE,65
+159,Nombre de communautés/villages couverts par le programme de lutte contre les VBG,9,2025,MALI,64
+156,Nombre de communautés/villages couverts par le programme de lutte contre les VBG,15,2025,KOUBIA,61
+158,Nombre de communautés/villages couverts par le programme de lutte contre les VBG,0,2025,LELOUMA,63
+21,Nombre de communautés/villages couverts par le programme de lutte contre les VBG,158,2025,KINDIA,54
+90,Nombre de communautés/villages couverts par le programme de lutte contre les VBG,223,2025,MAMOU,72
+339,Nombre de communes ciblées,9,2025,LOLA,83
+340,Nombre de communes ciblées,7,2025,YOMOU,86
+146,Nombre de communes ciblées,6,2025,KOUBIA,61
+85,Nombre de communes ciblées,0,2025,PITA,73
+15,Nombre de communes ciblées,5,2025,FORECARIAH,53
+149,Nombre de communes ciblées,14,2025,MALI,64
+148,Nombre de communes ciblées,11,2025,LELOUMA,63
+147,Nombre de communes ciblées,13,2025,LABE,62
+16,Nombre de communes ciblées,7,2025,KINDIA,54
+83,Nombre de communes ciblées,4,2025,DALABA,71
+150,Nombre de communes ciblées,10,2025,TOUGUE,65
+338,Nombre de communes ciblées,15,2025,MACENTA,84
+84,Nombre de communes ciblées,4,2025,MAMOU,72
+13,Nombre de communes ciblées,3,2025,COYAH,51
+14,Nombre de communes ciblées,5,2025,DUBREKA,52
+241,Nombre de communes ciblées,16,2025,KANKAN,41
+242,Nombre de communes ciblées,7,2025,KEROUANE,42
+243,Nombre de communes ciblées,14,2025,KOUROUSSA,43
+244,Nombre de communes ciblées,12,2025,MANDIANA,44
+245,Nombre de communes ciblées,17,2025,SIGUIRI,45
+337,Nombre de communes ciblées,14,2025,GUECKEDOU,82
+336,Nombre de communes ciblées,14,2025,BEYLA,81
+141,Nombre de femmes de 15-49 ans,34109,2025,KOUBIA,61
+142,Nombre de femmes de 15-49 ans,108641,2025,LABE,62
+143,Nombre de femmes de 15-49 ans,55688,2025,LELOUMA,63
+144,Nombre de femmes de 15-49 ans,103828,2025,MALI,64
+145,Nombre de femmes de 15-49 ans,42490,2025,TOUGUE,65
+9,Nombre de femmes de 15-49 ans,0,2025,COYAH,51
+82,Nombre de femmes de 15-49 ans,95027,2025,PITA,73
+81,Nombre de femmes de 15-49 ans,108997,2025,MAMOU,72
+80,Nombre de femmes de 15-49 ans,45676,2025,DALABA,71
+236,Nombre de femmes de 15-49 ans,151297.25,2025,KANKAN,41
+237,Nombre de femmes de 15-49 ans,66017.75,2025,KEROUANE,42
+238,Nombre de femmes de 15-49 ans,85918.5,2025,KOUROUSSA,43
+239,Nombre de femmes de 15-49 ans,108047.5,2025,MANDIANA,44
+240,Nombre de femmes de 15-49 ans,218033.5,2025,SIGUIRI,45
+331,Nombre de femmes de 15-49 ans,111487,2025,BEYLA,81
+332,Nombre de femmes de 15-49 ans,99294,2025,GUECKEDOU,82
+333,Nombre de femmes de 15-49 ans,95194,2025,MACENTA,84
+334,Nombre de femmes de 15-49 ans,58657,2025,LOLA,83
+335,Nombre de femmes de 15-49 ans,39077,2025,YOMOU,86
+12,Nombre de femmes de 15-49 ans,0,2025,KINDIA,54
+11,Nombre de femmes de 15-49 ans,0,2025,FORECARIAH,53
+10,Nombre de femmes de 15-49 ans,0,2025,DUBREKA,52
+400,Nombre de femmes mentors bénéficiaires pour la programme genre,17,2025,YOMOU,86
+303,Nombre de femmes mentors bénéficiaires pour la programme genre,0,2025,KOUROUSSA,43
+61,Nombre de femmes mentors bénéficiaires pour la programme genre,158,2025,KINDIA,54
+59,Nombre de femmes mentors bénéficiaires pour la programme genre,0,2025,DUBREKA,52
+60,Nombre de femmes mentors bénéficiaires pour la programme genre,0,2025,FORECARIAH,53
+304,Nombre de femmes mentors bénéficiaires pour la programme genre,0,2025,MANDIANA,44
+305,Nombre de femmes mentors bénéficiaires pour la programme genre,19,2025,SIGUIRI,45
+399,Nombre de femmes mentors bénéficiaires pour la programme genre,0,2025,LOLA,83
+208,Nombre de femmes mentors bénéficiaires pour la programme genre,20,2025,LELOUMA,63
+207,Nombre de femmes mentors bénéficiaires pour la programme genre,20,2025,LABE,62
+210,Nombre de femmes mentors bénéficiaires pour la programme genre,20,2025,TOUGUE,65
+58,Nombre de femmes mentors bénéficiaires pour la programme genre,0,2025,COYAH,51
+206,Nombre de femmes mentors bénéficiaires pour la programme genre,20,2025,KOUBIA,61
+119,Nombre de femmes mentors bénéficiaires pour la programme genre,0,2025,DALABA,71
+121,Nombre de femmes mentors bénéficiaires pour la programme genre,0,2025,PITA,73
+398,Nombre de femmes mentors bénéficiaires pour la programme genre,0,2025,MACENTA,84
+209,Nombre de femmes mentors bénéficiaires pour la programme genre,0,2025,MALI,64
+397,Nombre de femmes mentors bénéficiaires pour la programme genre,0,2025,GUECKEDOU,82
+120,Nombre de femmes mentors bénéficiaires pour la programme genre,0,2025,MAMOU,72
+396,Nombre de femmes mentors bénéficiaires pour la programme genre,66,2025,BEYLA,81
+301,Nombre de femmes mentors bénéficiaires pour la programme genre,18,2025,KANKAN,41
+302,Nombre de femmes mentors bénéficiaires pour la programme genre,13,2025,KEROUANE,42
+214,Nombre de groupements de femmes bénéficiaires (Programme Genre),2,2025,MALI,64
+306,Nombre de groupements de femmes bénéficiaires (Programme Genre),0,2025,KANKAN,41
+307,Nombre de groupements de femmes bénéficiaires (Programme Genre),0,2025,KEROUANE,42
+308,Nombre de groupements de femmes bénéficiaires (Programme Genre),0,2025,KOUROUSSA,43
+309,Nombre de groupements de femmes bénéficiaires (Programme Genre),0,2025,MANDIANA,44
+310,Nombre de groupements de femmes bénéficiaires (Programme Genre),0,2025,SIGUIRI,45
+63,Nombre de groupements de femmes bénéficiaires (Programme Genre),8,2025,DUBREKA,52
+64,Nombre de groupements de femmes bénéficiaires (Programme Genre),16,2025,FORECARIAH,53
+215,Nombre de groupements de femmes bénéficiaires (Programme Genre),2,2025,TOUGUE,65
+65,Nombre de groupements de femmes bénéficiaires (Programme Genre),17,2025,KINDIA,54
+62,Nombre de groupements de femmes bénéficiaires (Programme Genre),8,2025,COYAH,51
+122,Nombre de groupements de femmes bénéficiaires (Programme Genre),2,2025,DALABA,71
+123,Nombre de groupements de femmes bénéficiaires (Programme Genre),3,2025,MAMOU,72
+124,Nombre de groupements de femmes bénéficiaires (Programme Genre),2,2025,PITA,73
+405,Nombre de groupements de femmes bénéficiaires (Programme Genre),17,2025,YOMOU,86
+211,Nombre de groupements de femmes bénéficiaires (Programme Genre),2,2025,KOUBIA,61
+212,Nombre de groupements de femmes bénéficiaires (Programme Genre),2,2025,LABE,62
+213,Nombre de groupements de femmes bénéficiaires (Programme Genre),2,2025,LELOUMA,63
+401,Nombre de groupements de femmes bénéficiaires (Programme Genre),66,2025,BEYLA,81
+404,Nombre de groupements de femmes bénéficiaires (Programme Genre),0,2025,LOLA,83
+403,Nombre de groupements de femmes bénéficiaires (Programme Genre),0,2025,MACENTA,84
+402,Nombre de groupements de femmes bénéficiaires (Programme Genre),0,2025,GUECKEDOU,82
+78,Nombre de jeunes de 10 à 24 ans,0,2025,MAMOU,72
+140,Nombre de jeunes de 10 à 24 ans,50578,2025,TOUGUE,65
+139,Nombre de jeunes de 10 à 24 ans,124557,2025,MALI,64
+138,Nombre de jeunes de 10 à 24 ans,64578,2025,LELOUMA,63
+326,Nombre de jeunes de 10 à 24 ans,113517,2025,BEYLA,81
+327,Nombre de jeunes de 10 à 24 ans,95273,2025,GUECKEDOU,82
+328,Nombre de jeunes de 10 à 24 ans,93359,2025,MACENTA,84
+329,Nombre de jeunes de 10 à 24 ans,58521,2025,LOLA,83
+330,Nombre de jeunes de 10 à 24 ans,37794,2025,YOMOU,86
+136,Nombre de jeunes de 10 à 24 ans,39524,2025,KOUBIA,61
+137,Nombre de jeunes de 10 à 24 ans,136504,2025,LABE,62
+235,Nombre de jeunes de 10 à 24 ans,302730,2025,SIGUIRI,45
+234,Nombre de jeunes de 10 à 24 ans,154026,2025,MANDIANA,44
+233,Nombre de jeunes de 10 à 24 ans,108538,2025,KOUROUSSA,43
+8,Nombre de jeunes de 10 à 24 ans,0,2025,KINDIA,54
+232,Nombre de jeunes de 10 à 24 ans,80920,2025,KEROUANE,42
+231,Nombre de jeunes de 10 à 24 ans,209302,2025,KANKAN,41
+7,Nombre de jeunes de 10 à 24 ans,0,2025,FORECARIAH,53
+6,Nombre de jeunes de 10 à 24 ans,0,2025,DUBREKA,52
+5,Nombre de jeunes de 10 à 24 ans,0,2025,COYAH,51
+77,Nombre de jeunes de 10 à 24 ans,0,2025,DALABA,71
+79,Nombre de jeunes de 10 à 24 ans,0,2025,PITA,73
+300,Nombre de sages-femmes mentors qui appuient le renforcement des SONU,1,2025,SIGUIRI,45
+299,Nombre de sages-femmes mentors qui appuient le renforcement des SONU,1,2025,MANDIANA,44
+298,Nombre de sages-femmes mentors qui appuient le renforcement des SONU,1,2025,KOUROUSSA,43
+297,Nombre de sages-femmes mentors qui appuient le renforcement des SONU,1,2025,KEROUANE,42
+296,Nombre de sages-femmes mentors qui appuient le renforcement des SONU,1,2025,KANKAN,41
+203,Nombre de sages-femmes mentors qui appuient pour le renforcement des SONU,3,2025,LELOUMA,63
+56,Nombre de sages-femmes mentors qui appuient pour le renforcement des SONU,1,2025,FORECARIAH,53
+55,Nombre de sages-femmes mentors qui appuient pour le renforcement des SONU,1,2025,DUBREKA,52
+54,Nombre de sages-femmes mentors qui appuient pour le renforcement des SONU,2,2025,COYAH,51
+117,Nombre de sages-femmes mentors qui appuient pour le renforcement des SONU,0,2025,MAMOU,72
+118,Nombre de sages-femmes mentors qui appuient pour le renforcement des SONU,0,2025,PITA,73
+205,Nombre de sages-femmes mentors qui appuient pour le renforcement des SONU,2,2025,TOUGUE,65
+204,Nombre de sages-femmes mentors qui appuient pour le renforcement des SONU,3,2025,MALI,64
+57,Nombre de sages-femmes mentors qui appuient pour le renforcement des SONU,7,2025,KINDIA,54
+202,Nombre de sages-femmes mentors qui appuient pour le renforcement des SONU,4,2025,LABE,62
+201,Nombre de sages-femmes mentors qui appuient pour le renforcement des SONU,3,2025,KOUBIA,61
+391,Nombre de sages-femmes mentors qui appuient pour le renforcement des SONU,1,2025,BEYLA,81
+392,Nombre de sages-femmes mentors qui appuient pour le renforcement des SONU,1,2025,GUECKEDOU,82
+393,Nombre de sages-femmes mentors qui appuient pour le renforcement des SONU,1,2025,MACENTA,84
+394,Nombre de sages-femmes mentors qui appuient pour le renforcement des SONU,1,2025,LOLA,83
+395,Nombre de sages-femmes mentors qui appuient pour le renforcement des SONU,1,2025,YOMOU,86
+116,Nombre de sages-femmes mentors qui appuient pour le renforcement des SONU,0,2025,DALABA,71
+153,Nombre de villages ciblés pour les services à base communautaire de PF,845,2025,LELOUMA,63
+88,Nombre de villages ciblés pour les services à base communautaire de PF,0,2025,PITA,73
+345,Nombre de villages ciblés pour les services à base communautaire de PF,117,2025,YOMOU,86
+17,Nombre de villages ciblés pour les services à base communautaire de PF,0,2025,COYAH,51
+155,Nombre de villages ciblés pour les services à base communautaire de PF,836,2025,TOUGUE,65
+154,Nombre de villages ciblés pour les services à base communautaire de PF,1400,2025,MALI,64
+18,Nombre de villages ciblés pour les services à base communautaire de PF,0,2025,DUBREKA,52
+344,Nombre de villages ciblés pour les services à base communautaire de PF,189,2025,LOLA,83
+343,Nombre de villages ciblés pour les services à base communautaire de PF,574,2025,MACENTA,84
+342,Nombre de villages ciblés pour les services à base communautaire de PF,1428,2025,GUECKEDOU,82
+341,Nombre de villages ciblés pour les services à base communautaire de PF,878,2025,BEYLA,81
+246,Nombre de villages ciblés pour les services à base communautaire de PF,129,2025,KANKAN,41
+247,Nombre de villages ciblés pour les services à base communautaire de PF,61,2025,KEROUANE,42
+248,Nombre de villages ciblés pour les services à base communautaire de PF,80,2025,KOUROUSSA,43
+249,Nombre de villages ciblés pour les services à base communautaire de PF,80,2025,MANDIANA,44
+152,Nombre de villages ciblés pour les services à base communautaire de PF,1200,2025,LABE,62
+86,Nombre de villages ciblés pour les services à base communautaire de PF,0,2025,DALABA,71
+151,Nombre de villages ciblés pour les services à base communautaire de PF,424,2025,KOUBIA,61
+250,Nombre de villages ciblés pour les services à base communautaire de PF,150,2025,SIGUIRI,45
+87,Nombre de villages ciblés pour les services à base communautaire de PF,2,2025,MAMOU,72
+20,Nombre de villages ciblés pour les services à base communautaire de PF,0,2025,KINDIA,54
+19,Nombre de villages ciblés pour les services à base communautaire de PF,0,2025,FORECARIAH,53
+135,Population total,169964,2025,TOUGUE,65
+134,Population total,393274,2025,MALI,64
+228,Population total,343674,2025,KOUROUSSA,43
+229,Population total,432190,2025,MANDIANA,44
+230,Population total,872134,2025,SIGUIRI,45
+133,Population total,222755,2025,LELOUMA,63
+325,Population total,156307,2025,YOMOU,86
+1,Population total,0,2025,COYAH,51
+324,Population total,234625,2025,LOLA,83
+323,Population total,380777,2025,MACENTA,84
+322,Population total,397175,2025,GUECKEDOU,82
+75,Population total,435987,2025,MAMOU,72
+74,Population total,182704,2025,DALABA,71
+4,Population total,0,2025,KINDIA,54
+3,Population total,0,2025,FORECARIAH,53
+2,Population total,0,2025,DUBREKA,52
+321,Population total,445949,2025,BEYLA,81
+227,Population total,264071,2025,KEROUANE,42
+76,Population total,380107,2025,PITA,73
+131,Population total,136437,2025,KOUBIA,61
+132,Population total,434564,2025,LABE,62
+226,Population total,605189,2025,KANKAN,41
