@@ -95,6 +95,8 @@ elif map_layer == "Indicateurs":
     
     # Carte des indicateurs
     if not map_data['value'].isna().all():
+        map_data['value'] = map_data['value'].astype(float)
+        map_data['value'] = map_data['value'].fillna(0)
         fig = px.scatter_mapbox(
             map_data,
             lat="latitude",

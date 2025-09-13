@@ -1,0 +1,15 @@
+[Unit]
+Description=Streamlit App
+After=network.target
+
+[Service]
+User=root
+Group=root
+WorkingDirectory=/var/www/unfp-dashboard
+Environment="/var/www/unfp-dashboard/venv/bin/"
+ExecStart=/home/your_username/your-streamlit-app/venv/bin/streamlit run app.py --server.port=8501 --server.address=127.0.0.1
+
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
